@@ -1,0 +1,8 @@
+D:\C#\tp-alexandre\VCubWatcher\obj\Debug\net5.0\MvcMovie.csprojAssemblyReference.cache
+D:\C#\tp-alexandre\VCubWatcher\obj\Debug\net5.0\MvcMovie.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\tp-alexandre\VCubWatcher\obj\Debug\net5.0\MvcMovie.AssemblyInfoInputs.cache
+D:\C#\tp-alexandre\VCubWatcher\obj\Debug\net5.0\MvcMovie.AssemblyInfo.cs
+D:\C#\tp-alexandre\VCubWatcher\obj\Debug\net5.0\MvcMovie.csproj.CoreCompileInputs.cache
+D:\C#\tp-alexandre\VCubWatcher\obj\Debug\net5.0\MvcMovie.MvcApplicationPartsAssemblyInfo.cache
+D:\C#\tp-alexandre\VCubWatcher\obj\Debug\net5.0\MvcMovie.RazorAssemblyInfo.cache
+D:\C#\tp-alexandre\VCubWatcher\obj\Debug\net5.0\MvcMovie.RazorAssemblyInfo.cs
